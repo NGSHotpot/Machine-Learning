@@ -6,6 +6,8 @@
 # 系列文章索引
 1. [距离及相似性度量](https://github.com/NGSHotpot/Machine-Learning/blob/master/%E8%B7%9D%E7%A6%BB%E5%8F%8A%E7%9B%B8%E4%BC%BC%E6%80%A7%E5%BA%A6%E9%87%8F.md)
 
+2. [机器学习理解](https://github.com/NGSHotpot/Machine-Learning/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%90%86%E8%A7%A3.md)
+
 
 # 公式输入测试
 
